@@ -7,7 +7,7 @@ body{
 }
 
 .more {
-	display: block;
+	display: none;
 }
 
 .push {
@@ -15,5 +15,5 @@ body{
 }
 
 .newfeature {
-	
+
 }
