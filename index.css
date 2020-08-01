@@ -7,6 +7,5 @@ body{
 }
 
 .more {
-	display: none;
-	
+	display: block;
 }
